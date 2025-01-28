@@ -1,5 +1,5 @@
 --SELECT SELECT
--- 0. Get all the columns
+-- 0. Get all the PILLARS
 SELECT *
     FROM tutorial.us_housing_units
 
